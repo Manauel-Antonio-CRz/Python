@@ -1,4 +1,4 @@
-import flet as ft
+import flet as ft  #pip install flet
 
 def main(page: ft.Page):
     page.title = "contador"
